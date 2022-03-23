@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="PintoMSNPTest\PintoMSNPTest.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PintoMSNPTest\Database\Database.cs">
+    <Files>
+      <File FileName="PintoMSNPTest\MainClass.cs" Line="1" Column="1" />
+      <File FileName="PintoMSNPTest\MSNP Classes\MSNPClientImpl.cs" Line="49" Column="40" />
+      <File FileName="PintoMSNPTest\MSNP Classes\MSNPClient.cs" Line="28" Column="55" />
+      <File FileName="PintoMSNPTest\Database\Database.cs" Line="7" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
