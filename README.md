@@ -2,7 +2,7 @@
 SCRAPPED AND NO LONGER IN DEVELOPMENT!!!!
 
 # What was this test about?
-- This test was about figuring out for the future how to implement a basic MSNP server
+- This test was about figuring out how to implement a basic MSNP server
 - This was scrapped due to it wasting too much time
 
 # Can I use this to make my own MSNP server?
